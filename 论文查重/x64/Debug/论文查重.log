@@ -1,0 +1,6 @@
+﻿  论文查重.cpp
+D:\university\5大三上\软件工程\作业2\论文查重\论文查重.cpp(50,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\university\5大三上\软件工程\作业2\论文查重\论文查重.cpp(51,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1391,5): warning MSB8012: TargetPath(D:\university\5大三上\软件工程\作业2\论文查重\x64\Debug\论文查重.exe) 与 Linker 的 OutputFile 属性值(D:\university\5大三上\软件工程\作业2\论文查重\x64\Debug\main.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1393,5): warning MSB8012: TargetName(论文查重) 与 Linker 的 OutputFile 属性值(main)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+  论文查重.vcxproj -> D:\university\5大三上\软件工程\作业2\论文查重\x64\Debug\论文查重.exe
