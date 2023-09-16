@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>D:\university\5大三上\软件工程\作业2\orig.txt D:\university\5大三上\软件工程\作业2\orig_0.8_add.txt D:\university\5大三上\软件工程\作业2\ans.txt</LocalDebuggerCommandArguments>
-    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommand>$(OutDir)main$(TargetExt)</LocalDebuggerCommand>
-  </PropertyGroup>
-</Project>
