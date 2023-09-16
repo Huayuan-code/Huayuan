@@ -1,0 +1,4 @@
+﻿  paperpass.cpp
+D:\university\grade3up\softwareengineer\homework2\paperpass\paperpass.cpp(110,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\university\grade3up\softwareengineer\homework2\paperpass\paperpass.cpp(111,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  paperpass.vcxproj -> D:\university\grade3up\softwareengineer\homework2\paperpass\x64\Debug\paperpass.exe

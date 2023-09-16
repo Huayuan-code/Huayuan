@@ -1,0 +1,1 @@
+main.exe D:\university\grade3up\softwareengineer\homework2\orig.txt D:\university\grade3up\softwareengineer\homework2\orig_0.8_add.txt D:\university\grade3up\softwareengineer\homework2\ans.txt
